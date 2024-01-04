@@ -59,6 +59,7 @@ code {
   flex-direction: column;
   justify-content: space-between;
   border: 1px solid black;
+  
 }
 
 .cart-product{
@@ -93,6 +94,7 @@ code {
   box-shadow: 1px 1px 30px gray;
 }
 
+
 .container{
   display: flex;
   justify-content: space-between;
@@ -110,7 +112,6 @@ code {
 }
 
 .total, ol li{
-  /* border: 1px solid white; */
   padding: 10px;
   display: flex;
   justify-content: space-between;
@@ -124,6 +125,6 @@ code {
 }
 .checkout-btn:hover{
   cursor: pointer;
-  background-color: gray;
+  background-color: rgba(252, 8, 252, 0.84);
   color: white;
 }
